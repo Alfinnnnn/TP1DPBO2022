@@ -6,4 +6,4 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan TP1
 		saya tidak melakukan kecurangan seperti yang telah
 		dispesifikasikan. Aamiin
     
-## SS
+## Screenshoot
